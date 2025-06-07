@@ -6,9 +6,9 @@ Welcome to my GitHub repository for the **Oasis Infobyte Internship**! This repo
 
 ## 🛠️ Technologies Used
 
-- **Programming Languages**: Python, Java, C++, JavaScript *(based on individual tasks)*
+- **Programming Languages**: Python,JavaScript *(based on individual tasks)*
 - **Tools**: Git, GitHub, Visual Studio Code
-- **Libraries/Frameworks**: Flask, NumPy, Pandas *(if applicable)*
+- **Libraries/Frameworks**: React
 
 ---
 
