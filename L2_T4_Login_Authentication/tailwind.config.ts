@@ -1,5 +1,8 @@
 import type { Config } from "tailwindcss";
+<<<<<<< HEAD
 import animate from "tailwindcss-animate";
+=======
+>>>>>>> parent of 71a4ddd (Final Commit)
 
 export default {
 	darkMode: ["class"],
